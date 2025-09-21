@@ -124,6 +124,8 @@ await dao.connect(delegateAddress).castVoteAsDelegate(proposalId, [user.address]
 await dao.finalizeProposal(proposalId);
 ```
 
+---
+
 ## Testing
 
 ```bash
