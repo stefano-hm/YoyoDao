@@ -34,7 +34,7 @@ A decentralized autonomous organization (DAO) smart contract project that allows
 
 - **Testing and Deployment**:
   - Hardhat TypeScript scripts for deployment and testing
-  - Tests cover buying shares, membership, voting and owner withdrawals
+  - Tests cover buying shares, membership, voting, delegation and owner withdrawals
 
 ---
 
@@ -137,6 +137,7 @@ The tests cover:
 - Buying shares and membership recognition
 - Token balances and DAO funds
 - Proposal creation and voting
+- Delegation and liquid democracy
 - Owner withdrawals
 
 ---
