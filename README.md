@@ -139,6 +139,8 @@ The tests cover:
 - Proposal creation and voting
 - Owner withdrawals
 
+---
+
 ## License
 
 Tis project is licensed under the **MIT License**.
